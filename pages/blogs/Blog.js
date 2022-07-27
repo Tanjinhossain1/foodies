@@ -16,4 +16,4 @@ function index({ food }) {
   )
 }
 
-export default index
+export default index;
